@@ -1,0 +1,42 @@
+#amanda {
+   background-size: cover;
+   text-align: center;
+   background-image: url("../img/backgrounds/landing.jpg");
+   height:400px;
+ }
+
+.breakfast {
+  background-image:("img/foodtop/breakfast.jpg")
+  height:50px;
+}
+.morning {
+  position: absolute;
+  top:30%;
+  left:25%;
+  color:white;
+  font-size: 30px;
+  font-family:cursive;
+}
+.audrine{
+  background-image: ("img/fastfood/chickenBurger.jpg")
+  height:100px
+}
+.divClassCenter{
+  margin-left: 20%;
+  margin-top: 20%
+}
+.divClassCentertext{
+margin-left:absolute;
+margin-top: 15%
+
+}
+.divClassMargin{
+  margin-right: 100%
+  marin-top: 20%
+
+}
+#trevor{
+  background-size: cover;
+  background-image: url("../img/backgrounds/foodsBg.jpg");
+  height:400px;
+}
