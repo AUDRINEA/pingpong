@@ -1,9 +1,9 @@
-.jumotron{
+.jumbotron {
   text-align: center;
   font-style: italic;
-  font-size: 50px
+  font-size: 50px background-image:url();
 }
-.about{
-  background-color: #000;
-  
+
+.about {
+  background-color: #33ffDD;
 }
