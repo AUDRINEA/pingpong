@@ -5,8 +5,9 @@
 }
 
 #jumbo {
-  background-image: url(../pong.jpeg);
-  background-image: 10%;
+  background-image: url(../audrine.gif);
+  /*background-image: 10%;*/
+  background-image: cover;
 }
 
 .about {
