@@ -2,11 +2,11 @@
   text-align: center;
   font-style: italic;
   font-size: 50px;
-  background-clip: url(audrine.gif);
+  background-clip: url("../gif/audrine.gif");
 }
 
 .about {
-  background-color: 33ffDD
+  background-color: #33ffDD;
 }
 
 .ping {
