@@ -2,7 +2,11 @@
   text-align: center;
   font-style: italic;
   font-size: 50px;
-  background-clip: url("../gif/audrine.gif");
+}
+
+#jumbo {
+  background-image: url(../pong.jpeg);
+  background-image: 10%;
 }
 
 .about {
