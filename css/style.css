@@ -1,14 +1,13 @@
 .jumbotron {
   text-align: center;
   font-style: italic;
-  font-size: 70px;
-  text-decoration-color: #ff4000ff
 }
 
 #jumbo {
   background-image: url(../audrine.gif);
-  /*background-image: 10%;*/
   background-image: cover;
+  font-size: 100px;
+  text-decoration-color: #ff4000ff
 }
 
 .about {
@@ -17,4 +16,9 @@
 
 .ping {
   text-align: center;
+}
+
+h1 {
+  font-size: 150px;
+  text-decoration-color: #ff4000ff
 }
