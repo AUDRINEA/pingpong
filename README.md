@@ -2,7 +2,7 @@
 #### This is a game known as Ping-Pong, 13/12/2017
 #### This project was made by Audrine Amanda with some help from the teachers
 ## Description
-This a game which can jog you mind on Mathematics and also decrease your boredom.It is make using mainly JavaScript and Bootsrap.The gifs,color codes just to mention a few, were downloaded or copied from the internet.
+This a game which can jog your mind on Mathematics and also decrease your boredom or even stress for that matter.It is make using mainly JavaScript and Bootsrap.The gifs,color codes just to mention a few, were downloaded or copied from the internet.
 Make sure as you play the game,you read the instructions of the carefully and understand.
 
 Try to learn everything that needs to be learnt and ask as many questions as possible
