@@ -12,10 +12,12 @@ You can join Moringa School for extra classes to learn further about web
 If you have any issues or questions that I can help you with,
 You can contacted us on;
 0705100467 / 0792451012
+
 Facebook: Audrine Allan / Trevor Felix
+
 Instargram: audrineallan / official-trevor-felix
 
-You can also email us: audrineamanda@gmail.com / trevorfelix123@gmail.
+You can also email us: audrineamanda@gmail.com / trevorfelix@gmail.
 
 
 ### License
